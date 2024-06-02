@@ -1,0 +1,23 @@
+.picfol1,.picfol2{
+    margin-left: 10% ;
+    background-color: black ;
+    width: 1000px ;
+    padding: 20px ;
+   
+}
+.border{
+    display: flex;
+}
+.one{
+    padding: 10px;
+    margin-left: 20px;
+    border: solid grey 1px;
+    width: max-content;
+    background-color: grey;
+    padding-bottom: 15px;
+    color: white;
+}
+.topic{
+    text-align : center ;
+    color: white ;
+}
